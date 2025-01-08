@@ -1,2 +1,5 @@
 
-pip install numpy matplotlib scipy streamlit
+numpy 
+matplotlib 
+scipy 
+streamlit
